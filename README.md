@@ -4,15 +4,11 @@
 ![Eco Status](https://img.shields.io/badge/ECO-Friendly-green.svg)
 
 
-# TODO - task manager/planner
-### 19 group TODO website project
+## TODO - task manager/planner
 
-This project is for educational porpuses only. Pull request are welcome, but priority for my real-life students! Thank you for your cooperation!
+### TODO website project
 
-Site published at https://front-end-by-rimantas.github.io/19-grupe-todo/
-
-Design: random
-
+Site published at https://laimonasmas.github.io/23-todo/
 
 ## Project features
 - Node.js

@@ -7,7 +7,6 @@ const formAdd = lightbox.querySelector('form.add');
 const textarea = formAdd.querySelector('textarea');
 const buttonCancel = formAdd.querySelector('button.cancel');
 const buttonAdd = formAdd.querySelector('button.add');
-
 // init objects
 const todo = new Todo({
     selector: 'main'
